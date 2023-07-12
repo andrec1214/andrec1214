@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andrec1214
 - 👀 I’m interested in studying computer science in college.
 - 🌱 I’m currently learning how to program in Python!
-- 💞️ I’m looking to collaborate on any beginner projects where I can be given an opportunity to learn something.
+- 💞️ I’m looking to collaborate on any beginner projects where I can be given an opportunity to learn something new.
 - 📫 How to reach me: andreluizcardoso7@gmail.com
 
 <!---
