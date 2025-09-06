@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @andrec1214
-- 👀 I’m interested in studying computer science in college.
-- 🌱 I’m currently learning how to program in Python!
-- 💞️ I’m looking to collaborate on any beginner projects where I can be given an opportunity to learn something new.
-- 📫 How to reach me: andreluizcardoso7@gmail.com
+My name is Andre. I'm a Computer Science and Applied Mathematics major at NJIT and an aspiring software developer! Currently working on a full-stack character AI app.
 
 <!---
 andrec1214/andrec1214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
